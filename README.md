@@ -6,3 +6,4 @@ Lab 1: The Basics of R
 
 Lab 2: # More Basic R Skills
 - [Code](https://github.com/ara-menji/QC_MATH_342/blob/main/Lab%20Documents/Aracely-Menjivar_Lab2.Rmd)
+- [PDF](https://github.com/ara-menji/QC_MATH_342/blob/main/Lab%20Documents/342LAB2.pdf)
