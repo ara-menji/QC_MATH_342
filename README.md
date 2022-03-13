@@ -11,3 +11,6 @@ Lab 2: # More Basic R Skills
 Lab 3: # Regression via OLS with one feature
 - [Code](https://github.com/ara-menji/QC_MATH_342/blob/main/Lab%20Documents/Aracely-Menjivar_Lab3.Rmd)
 - [PDF](https://github.com/ara-menji/QC_MATH_342/blob/main/Lab%20Documents/342LAB3.pdf)
+
+Lab 4: 
+- [Code](https://github.com/ara-menji/QC_MATH_342/blob/main/Lab%20Documents/Aracely-Menjivar_Lab4.Rmd)
