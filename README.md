@@ -14,3 +14,6 @@ Lab 3: # Regression via OLS with one feature
 
 Lab 4: 
 - [Code](https://github.com/ara-menji/QC_MATH_342/blob/main/Lab%20Documents/Aracely-Menjivar_Lab4.Rmd)
+
+Lab 5:
+- [Code](https://github.com/ara-menji/QC_MATH_342/blob/main/Lab%20Documents/Aracely-Menjivar_Lab5.Rmd)
