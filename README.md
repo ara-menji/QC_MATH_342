@@ -17,3 +17,6 @@ Lab 4:
 
 Lab 5:
 - [Code](https://github.com/ara-menji/QC_MATH_342/blob/main/Lab%20Documents/Aracely-Menjivar_Lab5.Rmd)
+
+Lab 6:
+- [Code](https://github.com/ara-menji/QC_MATH_342/blob/main/Lab%20Documents/Aracely-Menjivar_Lab6.Rmd)
