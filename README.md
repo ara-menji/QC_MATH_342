@@ -28,4 +28,4 @@ Lab 8:
 - [Code](https://github.com/ara-menji/QC_MATH_342/blob/main/Lab%20Documents/LAB%208.Rmd)
 
 Lab 9:
--[Code](https://github.com/ara-menji/QC_MATH_342/blob/main/Lab%20Documents/LAB%209.Rmd)
+- [Code](https://github.com/ara-menji/QC_MATH_342/blob/main/Lab%20Documents/LAB%209.Rmd)
